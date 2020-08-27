@@ -1,1 +1,9 @@
-remote_theme: samesies/barber-jekyll
+#
+title: A Gonfie vele
+email: antonioghin@tutanota.com
+description: In viaggio sospinti da musiche e artisti
+url: https://toni-04.github.io/agonfievele
+
+#
+markdown: kramdown
+theme: minimal
